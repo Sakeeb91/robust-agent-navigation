@@ -114,6 +114,24 @@ python main.py
 - NumPy
 - Matplotlib
 
+## Inspiration and References
+
+This project was inspired by concepts presented in:
+
+```
+@misc{bertsekas2023lessonsalphazerooptimalmodel,
+      title={Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control}, 
+      author={Dimitri Bertsekas},
+      year={2023},
+      eprint={2108.10315},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2108.10315}, 
+}
+```
+
+The book's discussions on reinforcement learning, value functions, and optimal control under uncertainty directly influenced the approach taken in this implementation.
+
 ---
 
 <div align="center">
